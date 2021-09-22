@@ -7,4 +7,4 @@ Attached files includes:
 1. Table review of datasearch engine usability for searching open data
 2. Datacollection for the development of machine learning applications in industry
 
-Attachements are updated 22.9.2021
+Attachments are updated 22.9.2021
